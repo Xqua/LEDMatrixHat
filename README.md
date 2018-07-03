@@ -2,15 +2,18 @@
 
 ## Intro and inspiration
 Ok so it all started with Sabo. I am a big One Piece fan, and Sabo is probably my favorite character (RIP Ace ... you were the one before ! T_T ) 
-![](https://i.imgur.com/Ab2LhGq.png =250x)
+<img width="250" alt="Sabo" src="https://i.imgur.com/Ab2LhGq.png">
 
 Then, it there was a steam punk party and I got a top hat and some goggles and this happened:
-![](https://i.imgur.com/T1A1PwH.png =250x)
+<img width="250" alt="SteamPunk" src="https://i.imgur.com/T1A1PwH.png">
 
 Then it was a matter of time before Big Mom's hat took life, infused by Big Mom's soul. So well, I though, I'd give it a try, took some of my soul, and put it into the hat. And behold it was alive !
-![](https://i.imgur.com/MI5iBLt.png =250x)
+<img width="250" alt="Hat" src="https://i.imgur.com/MI5iBLt.png">
+
 
 But more than this, it was really alive
+
+<a href="https://www.youtube.com/watch?v=lCmvI1q-8ME><img width="Hat" alt="SteamPunk" src="https://img.youtube.com/vi/lCmvI1q-8ME/0.jpg"></a>
 
 [![Video](https://img.youtube.com/vi/lCmvI1q-8ME/0.jpg)](https://www.youtube.com/watch?v=lCmvI1q-8ME)
 https://youtu.be/lCmvI1q-8ME
