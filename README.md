@@ -62,7 +62,9 @@ Alright so we'll basically follow this schematic
 Which is basically an adaptation of the Space Invader schematic from adafruit: https://learn.adafruit.com/trinket-slash-gemma-space-invader-pendant/wirin
 
 **DON'T FORGET TO RUN THE WIRE THROUGH THE HAT BEFORE YOU SOLDER !**
+
 **DON'T FORGET TO RUN THE WIRE THROUGH THE HAT BEFORE YOU SOLDER !**
+
 **DON'T FORGET TO RUN THE WIRE THROUGH THE HAT BEFORE YOU SOLDER !**
 
 ## Programming 
@@ -104,4 +106,5 @@ for(int i=0; i<sizeof(anim); i) { // For each frame...
 
 Then the final touch up was to add some randomness into this, so that it would play a different animation randomly, and with blinks of the eyes to make it more lively. 
 
-The sketch is in the folder: XXXXXXXXXXXXX
+The sketch files are included in the repository, anim.h contains the byte maps for the different animations, while the main program is under LEDmatrixHat.ino.
+
